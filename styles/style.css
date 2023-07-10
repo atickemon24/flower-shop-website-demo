@@ -7,3 +7,46 @@
     padding: 0;
     font-family: 'Lato', sans-serif;
 }
+/* haeder  desgin  */
+.main-header{
+    background-color: #FCEEF1;
+}
+.banner-container{
+    display: flex;
+}
+.left-conatnt{
+    width: 40%;
+    padding: 30px 30px 30px 120px;
+}
+.title{
+    font-size: 35px;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom:10px;
+    margin-top: 20px;
+}
+.title-description{
+    font-size: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom:10px;
+    line-height: 2;
+}
+button.btn {
+    padding: 8px 12px;
+    background: #E55473;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-top: 10px;
+}
+.image{
+    margin-top: 25px;
+    width: 250px;
+    height: 300px;
+    margin-right: 70px;
+}
+.banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
